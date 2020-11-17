@@ -1,5 +1,7 @@
 ## flyless
 
+[![Actions Status](https://github.com/ajurasz/flyless/workflows/CI/badge.svg)](https://github.com/ajurasz/flyless/actions)
+
 Sample setup that demonstrate how to manage schema evolution for relational databases from within lambda function.
 
 ### Prerequisites
